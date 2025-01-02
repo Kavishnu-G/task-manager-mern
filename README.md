@@ -81,28 +81,7 @@ To run the project, execute the following command at the root directory:
 
 The above command will run both the fron and the back end at the sametime.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👤 **Getayawkal Tamrat**
-
-- GitHub: [@githubhandle](https://github.com/getssh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/getayawkal-tamrat/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/getssh/task_manager/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -112,10 +91,3 @@ If you like this project please send you feedbacks and give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./MIT.md) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
